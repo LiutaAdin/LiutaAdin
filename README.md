@@ -36,12 +36,20 @@ Here are some ideas to get you started:
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-</div>     
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100"/>
+</div>      -->
 
----
+
 ## :bowing_man: Aboute me:
+From the need to have a website for our small business, in combination with my curiosity and my way of doing things with my own hands, this direction to web development was born. My first exposure to how web applications were developed was such an inspiration that I decided to retrain.
+<br>
+After 9 years of experience in the hospitality industry, I am making a 90-degree turn in my professional journey. A decision that has come with significant challenges and limitations, challenges that I am ready to face and limitations that I am ready to overcome.
+Going forward, my goal and desire is to discover and learn the intricacies of the web industry, JavaScript along with the necessary tools and to add value to the place where I will be working. In order to achieve this, I will work hard, dedicate my personal time to continuous learning, self-development and strive to exceed my own expectations.
+### Things I love: 
+   My wife, my cat, hiking, the early morning sound of the tent's zip, 
+   playing football, photography, board games, 
+   a good wine and plants.
 
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AdinLiuta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adin-robert-l-398b2b268/)
